@@ -1,0 +1,88 @@
+{
+	"itlv3net":
+	{
+		"name" :
+		{
+			"plural" : "Imperial Spys",
+			"singular" : "Imperial Spy"
+		},
+		"advMapAmount" :
+		{
+			 "min" : 20,
+			 "max" : 50
+		},
+		"faction" : "imperium",
+		"level" : 2,
+		"attack" : 8,
+		"defense" : 5,
+		"damage" :
+		{
+			 "min" : 2,
+			 "max" : 4
+		},
+		"growth" : 8,
+		"hitPoints" : 12,
+		"speed" : 6,
+		"horde" : 6,
+		"fightValue" : 318,
+		"aiValue" : 356,
+		"cost" :
+		{
+			"gold" : 120
+		},
+		"graphics" :
+		{
+			"animation" : "imperium/creatures/battle/lv3n.def",
+			"map" : "imperium/creatures/map/lv3n.def",
+			"iconSmall" : "imperium/creatures/iconsSmall/lv3n.bmp",
+			"iconLarge" : "imperium/creatures/iconsBig/lv3n.bmp",
+                        "timeBetweenFidgets" : 1,
+			"animationTime" :
+			{
+				"walk" : 1,
+				"attack" : 1,
+				"idle" : 10
+			}
+		},
+		"sound" :
+		{
+			"attack": "ROGUATTK.wav",
+			"defend": "ROGUDFND.wav",
+			"killed": "ROGUKILL.wav",
+			"move": "ROGUMOVE.wav",
+			"wince": "ROGUWNCE.wav"
+               },
+		"abilities":
+		{
+			"visionsMonsters" :
+			{
+				"type" : "VISIONS",
+				"subtype" : 0,
+				"val" : 3,
+				"valueType" : "INDEPENDENT_MAX",
+				"propagator" : "HERO"
+			},
+			"visionsHeroes" :
+			{
+				"type" : "VISIONS",
+				"subtype" : 1,
+				"val" : 3,
+				"valueType" : "INDEPENDENT_MAX",
+				"propagator" : "HERO"				
+			},
+			"visionsTowns" :
+			{
+				"type" : "VISIONS",
+				"subtype" : 2,
+				"val" : 3,
+				"valueType" : "INDEPENDENT_MAX",
+				"propagator" : "HERO"				
+			},
+			"immuneToFire" :
+			{
+				"type" : "FIRE_IMMUNITY",
+				"subtype" : 0 //this IS important
+			}
+		}	
+	}
+}

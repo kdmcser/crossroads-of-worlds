@@ -1,0 +1,101 @@
+{
+	"core:creatureGeneratorCommon" : {
+		"types" : {
+			"itPikemanOutpost" : {
+				"name" : "Pikeman Outpost",
+				"creatures" : [[ "itlv1" ]],
+				"templates" : {
+					"default" : {
+						"animation" : "imperium/creatures/dwellings/dw1.def",
+						"mask" : [ "VBV", "VBB", "VBA" ]
+					}
+				}
+			},
+			"itArcherOutpost" : {
+				"name" : "Archer Outpost",
+				"creatures" : [[ "itlv2" ]],
+				"templates" : {
+					"default" : {
+						"animation" : "imperium/creatures/dwellings/dw2.def",
+						"mask" : [ "VBV", "VBB", "VBA" ]
+					}
+				}
+			},
+			"itHoundOutpost" : {
+				"name" : "Hound Outpost",
+				"creatures" : [[ "itlv3" ]],
+				"templates" : {
+					"default" : {	
+						"animation" : "imperium/creatures/dwellings/dw3.def",
+						"mask" : [ "VBV", "VBB", "VBA" ]
+					}
+				}
+			},
+			"itSwordsmanOutpost" : {
+				"name" : "Swordsman Outpost",
+				"creatures" : [[ "itlv4" ]],
+				"guards" : true,
+				"templates" : {
+					"default" : {
+						"animation" : "imperium/creatures/dwellings/dw4.def",
+						"mask" : [ "VBV", "VBB", "VBA" ]
+					}
+				}
+			},
+			"itMonkOutpost" : {
+				"name" : "Monk Outpost",
+				"creatures" : [[ "itlv5" ]],
+				"guards" : true,
+				"templates" : {
+					"default" : {
+						"animation" : "imperium/creatures/dwellings/dw5.def",
+						"mask" : [ "VVV", "VBV", "VAV" ]
+					}
+				}
+			},
+			"itCavalierOutpost" : {
+				"name" : "Cavalier Outpost",
+				"creatures" : [[ "itlv6" ]],
+				"guards" : true,
+				"templates" : {
+					"default" : {
+						"animation" : "imperium/creatures/dwellings/dw6.def",
+						"mask" : [ "VVV", "VBV", "VAV" ]
+					}
+				}
+			},
+			"itAngelOutpost" : {
+				"name" : "Angel Outpost",
+				"creatures" : [[ "itlv7" ]],
+				"guards" : true,
+				"templates" : {
+					"default" : {
+						"animation" : "imperium/creatures/dwellings/dw7.def",
+						"mask" : [ "VVV", "VBV", "VBA" ]
+					}
+				}
+			},
+			"itSpyOutpost" : {
+				"name" : "Spy Outpost",
+				"creatures" : [[ "itlv3net" ]],
+				"templates" : {
+					"default" : {	
+						"animation" : "imperium/creatures/dwellings/dw8.def",
+						"mask" : [ "VBV", "VBB", "VBA" ]
+					}
+				}
+			},
+			"itSniperOutpost" : {
+				"name" : "Sniper Outpost",
+				"creatures" : [[ "itlv4sn" ]],
+				"guards" : true,
+				"templates" : {
+					"default" : {
+						"animation" : "imperium/creatures/dwellings/dw9.def",
+						"mask" : [ "VBV", "VBB", "VBA" ]
+					}
+				}
+			}
+		}		
+	}
+}

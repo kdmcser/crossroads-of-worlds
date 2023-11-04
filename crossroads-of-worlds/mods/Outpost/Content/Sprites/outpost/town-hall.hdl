@@ -1,0 +1,11 @@
+[Data]
+Type=7
+Shadow Type=0
+Groups Number=1
+Group0=ThCsMag1.bmp|ThCsMag2.bmp|ThCsMag3.bmp|ThCsMag4.bmp|ThCsMag1.bmp|ThCsTav1.bmp|ThCsDock.bmp|ThCsCas1.bmp|ThCsCas2.bmp|ThCsCas3.bmp|ThCsHal1.bmp|ThCsHal2.bmp|ThCsHal3.bmp|ThCsHal4.bmp|ThCsMrk1.bmp|ThCsMrk2.bmp|ThCsBlak.bmp|ThCsLite.bmp|ThCsGr1H.bmp|ThCsGr2H.bmp|ThCsMag1.bmp|ThCsCv2S.bmp|ThCsTav2.bmp|ThCsGr3H.bmp|ThCsMag1.bmp|ThCsMag1.bmp|ThCsHoly.bmp|ThCsMag1.bmp|ThCsMag1.bmp|ThCsMag1.bmp|ThCsPik1.bmp|ThCsCrs1.bmp|ThCsGr1.bmp|ThCsSwd1.bmp|ThCsMon1.bmp|ThCsCv1.bmp|ThCsAng1.bmp|ThCsPik2.bmp|ThCsCrs2.bmp|ThCsGr2.bmp|ThCsSwd2.bmp|ThCsMon2.bmp|ThCsCv2.bmp|ThCsAng2.bmp|ThCsPik3.bmp|ThCsCrs3.bmp|ThCsMag1.bmp|ThCsMag1.bmp|ThCsMag1.bmp|ThCsCv3.bmp|
+Generate Selection=0
+ColorsBox.Colors=$FFFF00|$FF96FF|$0A0E12|$231C1B|$FF00FF|$13201A|$22201D|$0A162B|
+ShadowColorsBox.Colors=$FFFF00|$FF96FF|$0A0E12|$231C1B|$FF00FF|$13201A|$22201D|$0A162B|
+ColorsBox.PlayerColors=$A3CBF3|$B5CAF3|$A4D8F6|$B7D7F5|$8DF3FC|$AEE8FA|$C8CAD2|$E3D3C6|$D1E2DE|$EFE1CF|$D1DAE1|$F5DBE9|$CBE2EC|$D6E3EB|$C9E7F6|$D7EAF5|$CAF2FD|$D7F4FB|$E2E5E4|$F4ECE2|$EFF0EE|$E5EBF5|$E7F1F7|$FBFBFB|$B0E550|$34F519|$4E4149|$B8F919|$C40043|$7D14AD|$000100|$60F519|
+ColorsBox.ColorChecks=1|0|0|0|0|0|0|0|0|
+ShadowColorsBox.ColorChecks=1|1|1|1|1|1|1|1|

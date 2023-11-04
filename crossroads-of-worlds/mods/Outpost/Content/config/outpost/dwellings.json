@@ -1,0 +1,91 @@
+{
+	"core:creatureGeneratorCommon" : {
+		"types" : {
+			"quPikemanOutpost" : {
+				"name" : "Pikeman Outpost",
+				"creatures" : [[ "qulv1" ]],
+				"templates" : {
+					"default" : {
+						"animation" : "outpost/creatures/dwellings/dw1.def",
+						"mask" : [ "VBV", "VBB", "VBA" ]
+					}
+				}
+			},
+			"quArcherOutpost" : {
+				"name" : "Archer Outpost",
+				"creatures" : [[ "qulv2" ]],
+				"templates" : {
+					"default" : {
+						"animation" : "outpost/creatures/dwellings/dw2.def",
+						"mask" : [ "VBV", "VBB", "VBA" ]
+					}
+				}
+			},
+			"quHoundOutpost" : {
+				"name" : "Hound Outpost",
+				"creatures" : [[ "qulv3" ]],
+				"templates" : {
+					"default" : {	
+						"animation" : "outpost/creatures/dwellings/dw3.def",
+						"mask" : [ "VBV", "VBB", "VBA" ]
+					}
+				}
+			},
+			"quSwordsmanOutpost" : {
+				"name" : "Swordsman Outpost",
+				"creatures" : [[ "qulv4" ]],
+				"guards" : true,
+				"templates" : {
+					"default" : {
+						"animation" : "outpost/creatures/dwellings/dw4.def",
+						"mask" : [ "VBV", "VBB", "VBA" ]
+					}
+				}
+			},
+			"quMonkOutpost" : {
+				"name" : "Monk Outpost",
+				"creatures" : [[ "qulv5" ]],
+				"guards" : true,
+				"templates" : {
+					"default" : {
+						"animation" : "outpost/creatures/dwellings/dw5.def",
+						"mask" : [ "VVV", "VBV", "VAV" ]
+					}
+				}
+			},
+			"quCavalierOutpost" : {
+				"name" : "Cavalier Outpost",
+				"creatures" : [[ "qulv6" ]],
+				"guards" : true,
+				"templates" : {
+					"default" : {
+						"animation" : "outpost/creatures/dwellings/dw6.def",
+						"mask" : [ "VVV", "VBV", "VAV" ]
+					}
+				}
+			},
+			"quAngelOutpost" : {
+				"name" : "Angel Outpost",
+				"creatures" : [[ "qulv7" ]],
+				"guards" : true,
+				"templates" : {
+					"default" : {
+						"animation" : "outpost/creatures/dwellings/dw7.def",
+						"mask" : [ "VVV", "VBV", "VBA" ]
+					}
+				}
+			},
+			"quSniperOutpost" : {
+				"name" : "Sniper Outpost",
+				"creatures" : [[ "qulv4sn" ]],
+				"guards" : true,
+				"templates" : {
+					"default" : {
+						"animation" : "outpost/creatures/dwellings/dw8.def",
+						"mask" : [ "VBV", "VBB", "VBA" ]
+					}
+				}
+			}
+		}		
+	}
+}
