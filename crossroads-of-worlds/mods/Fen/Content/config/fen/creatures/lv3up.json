@@ -56,7 +56,8 @@
 			{
 				"type" : "SPELL_AFTER_ATTACK",
 				"subtype" : "spell.stoneGaze",
-				"val" : 15
+				"val" : 15,
+				"addInfo" : [0, 2]
 			},
 
 		       "flying" :
@@ -66,8 +67,9 @@
 			},
 		"immunity" :
                        {
-                              "type" : "AIR_IMMUNITY",
-				"subtype" : 2 //immune to damage spells only
+               "type" : "SPELL_DAMAGE_REDUCTION",
+				"subtype" : "air",
+				"val" : 100
 			}
 		}
 	}

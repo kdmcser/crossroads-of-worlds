@@ -48,26 +48,27 @@
 			"wince": "SWRDWNCE.wav"
 		},
 		"speed" : 5,
-              "abilities" :
+        "abilities" :
 		{
-                        "petrification" :
+			
+            "petrification" :
 			{
-                               "type" : "SPELL_AFTER_ATTACK",
- 
-                               "subtype" : "spell.stoneGaze", 
-                                "val" : 20,
+                "type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.stoneGaze", 
+                "val" : 20,
+				"addInfo" : [0, 1]
 
 			},
 			"airShield":
 			{
 				"type":"GENERAL_DAMAGE_REDUCTION",
-				"subtype": 1,
+				"subtype": "damageTypeRanged",
 				"val" : 20
 			  },  
 			"earthImmunity" : 
 			{
-				"type" : "EARTH_IMMUNITY",
-				"subtype" : 0
+				"type" : "SPELL_SCHOOL_IMMUNITY",
+				"subtype" : "earth"
 			}	
 		}	
 	}

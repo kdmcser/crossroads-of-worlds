@@ -54,7 +54,7 @@
 			"deathStare" : 
 			{
 				"type" : "DEATH_STARE",
-				"subtype" : 0,
+				"subtype" : "deathStareGorgon",
 				"val" : 10
 			},
 			"fireBreath" :
@@ -67,8 +67,9 @@
 			},
 		"immunity" :
             {
-               "type" : "AIR_IMMUNITY",
-				"subtype" : 2 //immune to damage spells only
+               "type" : "SPELL_DAMAGE_REDUCTION",
+				"subtype" : "air",
+				"val" : 100
 			}
 		}	
 	}

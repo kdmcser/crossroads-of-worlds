@@ -54,10 +54,10 @@
 			{
 				"type" : "RECEPTIVE"
 			},
-                      "generalDamageReduction" :
+            "generalDamageReduction" :
 			{
 				"type" : "GENERAL_DAMAGE_REDUCTION",
-				"subtype" : 0,
+				"subtype" : "damageTypeMelee",
 				"val" : 35
 			},
 		      "JOUSTING" : 
@@ -66,8 +66,8 @@
 			},
 		    "earthImmunity" : 
 			{
-				"type" : "EARTH_IMMUNITY",
-				"subtype" : 0
+				"type" : "SPELL_SCHOOL_IMMUNITY",
+				"subtype" : "earth"
 			}
 		}
 	}

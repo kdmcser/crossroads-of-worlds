@@ -35,7 +35,7 @@
         "specialty" : {
 			"bonuses" : {
 				"offence" : {
-					"subtype" : 0,
+					"subtype" : "damageTypeMelee",
 					"type" : "PERCENTAGE_DAMAGE_BOOST",
 					"updater" : "TIMES_HERO_LEVEL",
 					"val" : 5,

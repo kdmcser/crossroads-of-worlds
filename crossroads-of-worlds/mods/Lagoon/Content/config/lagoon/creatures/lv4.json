@@ -4,7 +4,7 @@
 			"shield" :
 			{
 				"type" : "GENERAL_DAMAGE_REDUCTION",
-				"subtype" : 0,
+				"subtype" : "damageTypeMelee",
 				"val" : 15
                         }
 		},
@@ -27,7 +27,7 @@
 		},
 		"growth" : 4,
 		"hitPoints" : 30,
-                "doubleWide" : false,
+        "doubleWide" : false,
 		"level" : 4,
 		"name" : { "plural" : "Soldiers", "singular" : "Soldier" },
 		"sound" : {

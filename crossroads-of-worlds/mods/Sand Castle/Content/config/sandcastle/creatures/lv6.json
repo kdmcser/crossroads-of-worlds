@@ -50,10 +50,9 @@
 		},
 		"abilities" :
 		{
-			
 		     "justing" :
 			{
-                               "type" : "JOUSTING",
+                "type" : "JOUSTING"
 			}
 		}
 	}

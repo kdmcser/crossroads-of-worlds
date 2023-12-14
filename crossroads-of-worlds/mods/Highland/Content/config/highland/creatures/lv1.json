@@ -36,7 +36,7 @@
 			"map" : "highland/creatures/map/lv1map.def",
 			"iconSmall" : "highland/creatures/iconsSmall/lv1s.bmp",
 			"iconLarge" : "highland/creatures/iconsBig/lv1b.bmp",
-                        "timeBetweenFidgets" : 1,
+            "timeBetweenFidgets" : 1,
 			"animationTime" :
 			{
 				"walk" : 1,
@@ -57,7 +57,7 @@
 			"shield effect" :
 			{
 				"type" : "GENERAL_DAMAGE_REDUCTION",
-				"subtype" : 0, //shield effect//seems that there is no subtype
+				"subtype" : "damageTypeMelee",
 				"val" : 5
             }
 		}	

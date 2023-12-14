@@ -36,7 +36,7 @@
 			"bonuses" : {
 				"navigation" : {
 					"targetSourceType" : "SECONDARY_SKILL",
-					"subtype" : 0,
+					"subtype" : "heroMovementSea",
 					"type" : "MOVEMENT",
 					"updater" : "TIMES_HERO_LEVEL",
 					"val" : 5,

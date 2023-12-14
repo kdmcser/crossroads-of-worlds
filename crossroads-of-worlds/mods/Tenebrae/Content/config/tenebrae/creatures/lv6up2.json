@@ -59,12 +59,12 @@
 			"immuneToArrow" :
 			{
 				"type" : "GENERAL_DAMAGE_REDUCTION",
-				"subtype" : 1,
+				"subtype" : "damageTypeRanged",
 				"val" : 30
 			},
 		    "justing" :
 			{
-                "type" : "JOUSTING",
+                "type" : "JOUSTING"
 			},
             "fearless" : 
 			{

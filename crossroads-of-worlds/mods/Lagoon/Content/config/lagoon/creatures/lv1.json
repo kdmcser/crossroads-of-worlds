@@ -36,7 +36,7 @@
 			"map" : "lagoon/creatures/map/lv1map.def",
 			"iconSmall" : "lagoon/creatures/iconsSmall/lv1s.bmp",
 			"iconLarge" : "lagoon/creatures/iconsBig/lv1b.bmp",
-                        "timeBetweenFidgets" : 1,
+            "timeBetweenFidgets" : 1,
 			"animationTime" :
 			{
 				"walk" : 1,
@@ -57,9 +57,9 @@
 			"shield" :
 			{
 				"type" : "GENERAL_DAMAGE_REDUCTION",
-				"subtype" : 0,
+				"subtype" : "damageTypeMelee",
 				"val" : 5
-                        }
+            }
 		}	
 	}
 }

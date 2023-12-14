@@ -77,7 +77,7 @@
 		   "shield effect" :
 			{
 				"type" : "GENERAL_DAMAGE_REDUCTION",
-				"subtype" : 0, //shield effect//seems that there is no subtype
+				"subtype" : "damageTypeMelee",
 				"val" : 25
 			},
 		   "canShoot" :

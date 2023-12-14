@@ -51,7 +51,7 @@
 							"type" : "HAS_ANOTHER_BONUS_LIMITER",
 							"parameters" : [
 								"GENERAL_DAMAGE_PREMY",
-								1,
+								null,
 								{
 									"type" : "SPELL_EFFECT",
 									"id" : "spell.bless"

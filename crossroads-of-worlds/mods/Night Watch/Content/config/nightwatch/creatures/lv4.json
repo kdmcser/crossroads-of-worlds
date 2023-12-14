@@ -55,12 +55,12 @@
 				"type" : "SPELL_AFTER_ATTACK",
 				"subtype" : "spell.curse",
 				"val" : 25,
-				"addInfo" : [0,2]
+				"addInfo" : [0, 0]
 			},
 			"shield" :
 			{
 				"type":"GENERAL_DAMAGE_REDUCTION",
-				"subtype" : 0, //shield effect
+				"subtype" : "damageTypeMelee",
 				"val" :20
 			}
 		}

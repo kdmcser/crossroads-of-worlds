@@ -58,18 +58,20 @@
 			{
 				"type" : "SPELL_AFTER_ATTACK",
 				"subtype" : "spell.dispelHelpful",
-				"val" : 100
+				"val" : 100,
+				"addInfo" : [0, 2]
 			},
 			"earthImmunity" : 
 			{
-				"type" : "EARTH_IMMUNITY",
-				"subtype" : 0
+				"type" : "SPELL_SCHOOL_IMMUNITY",
+				"subtype" : "earth"
 			},
 			"castWeakness" :
 			{
 				"type" : "SPELL_AFTER_ATTACK",
 				"subtype" : "spell.weakness",
-				"val" : 100
+				"val" : 100,
+				"addInfo" : [0,2]
 			}
                }
 	}

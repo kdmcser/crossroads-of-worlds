@@ -65,12 +65,12 @@
 			"teleports" :
 			{
 				"type" : "FLYING",
-				"subtype" : 1 //teleport",
+				"subtype" : "movementTeleporting"
 			},
 	     	"immuneToFire" :
 			{
-				"type" : "FIRE_IMMUNITY",
-				"subtype" : 0 //this IS important
+				"type" : "SPELL_SCHOOL_IMMUNITY",
+				"subtype" : "fire"
 			}
 		}	
 	}

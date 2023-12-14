@@ -82,7 +82,7 @@
 			{
 				"type" : "SHOOTER"
 			 },
-		"noDistancePenalty" :	
+			"noDistancePenalty" :	
 			{
 				"type" : "NO_DISTANCE_PENALTY"
 			 }

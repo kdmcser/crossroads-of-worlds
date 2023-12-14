@@ -29,7 +29,7 @@
 		"cost" :
 		{
 			"gold" : 3000,
-                        "mercury" : 1
+            "mercury" : 1
 		},
 		"graphics" :
 		{
@@ -37,7 +37,7 @@
 			"map" : "vanguard/creatures/map/lv7map.def",
 			"iconSmall" : "vanguard/creatures/iconsSmall/lv7Small.bmp",
 			"iconLarge" : "vanguard/creatures/iconsBig/lv7Large.bmp",
-                        "timeBetweenFidgets" : 1,
+            "timeBetweenFidgets" : 1,
 			"animationTime" :
 			{
 				"walk" : 1,
@@ -58,7 +58,7 @@
 		    "teleports" :
 			{
 				"type" : "FLYING",
-				"subtype" : 1 //teleport
+				"subtype" : "movementTeleporting"
 			},
             "immuneToMind" : 
 			{

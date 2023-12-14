@@ -55,7 +55,7 @@
 			"immuneToArrow" :
                         {
 				"type" : "GENERAL_DAMAGE_REDUCTION",
-				"subtype" : 1,
+				"subtype" : "damageTypeRanged",
 				"val" : 25
 			},
 			"fearless" :

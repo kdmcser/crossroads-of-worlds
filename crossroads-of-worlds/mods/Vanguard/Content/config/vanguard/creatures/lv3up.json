@@ -60,20 +60,22 @@
 			{
 				"type" : "SPELL_AFTER_ATTACK",
 				"subtype" : "spell.dispelHelpful",
-				"val" : 50
+				"val" : 50,
+				"addInfo" : [1, 2]
 			},
 			"spellPoison" :
 			{
 				"type" : "SPELL_AFTER_ATTACK",
 				"subtype" : "spell.poison",
 				"val" : 50,
-				"addInfo" : 1001				
+				"addInfo" : [1, 2]				
 			},
 			"castWeakness" :
 			{
 				"type" : "SPELL_AFTER_ATTACK",
 				"subtype" : "spell.weakness",
-				"val" : 50
+				"val" : 50,
+				"addInfo" : [1, 2]
 			}
 		}
 	}

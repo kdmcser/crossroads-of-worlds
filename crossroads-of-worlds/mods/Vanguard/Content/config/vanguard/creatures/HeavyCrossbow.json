@@ -72,7 +72,7 @@
 		    "noRetaliation" :
 			{
 				"type" : "NO_RETALIATION",
-				 "val" : 0,
+				 "val" : 0
 			},
 			"warmachine" :
 			{

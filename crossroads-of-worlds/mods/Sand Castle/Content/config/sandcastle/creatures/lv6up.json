@@ -56,12 +56,12 @@
 			
 		     "justing" :
 			{
-                               "type" : "JOUSTING",
+                "type" : "JOUSTING"
 			},
-                    "fearless" : 
+            "fearless" : 
 			{
 				"type" : "FEARLESS"
-			 }
+			}
 		}	
 	}
 }

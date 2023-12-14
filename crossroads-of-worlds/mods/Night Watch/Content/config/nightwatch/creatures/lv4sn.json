@@ -79,7 +79,7 @@
 				"type" : "SPELL_AFTER_ATTACK",
 				"subtype" : "spell.poison",
 				"val" : 50,
-				"addInfo" : [0,2]				
+				"addInfo" : [0, 0]				
 			},
 		   "canShoot" :
 			{

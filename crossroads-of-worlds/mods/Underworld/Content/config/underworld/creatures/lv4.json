@@ -56,16 +56,15 @@
 		{
                         "petrification" :
 			{
-                               "type" : "SPELL_AFTER_ATTACK",
- 
-                               "subtype" : "spell.stoneGaze", 
-                                "val" : 20,
-
+				"type" : "SPELL_AFTER_ATTACK",
+				"subtype" : "spell.stoneGaze", 
+                "val" : 20,
+				"addInfo" : [0, 1]
 			},
 			"earthImmunity" : 
 			{
-				"type" : "EARTH_IMMUNITY",
-				"subtype" : 0
+				"type" : "SPELL_SCHOOL_IMMUNITY",
+				"subtype" : "earth"
 			}	
 		}	
 	}

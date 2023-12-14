@@ -38,7 +38,7 @@
 			"flies" :
 			{
 				"type" : "FLYING",
-				"subtype" : 0
+				"subtype" : "movementFlying"
 			},
 			"advSlayer":
 			{
@@ -58,7 +58,7 @@
 			"deathStare" : 
 			{
 				"type" : "DEATH_STARE",
-				"subtype" : 0,
+				"subtype" : "deathStareGorgon",
 				"val" : 20
 			},
 			"fearless" :
@@ -68,8 +68,10 @@
 			"descreaseMorale" :
 			{
 				"type" : "MORALE",
-				"effectRange" : "ONLY_ENEMY_ARMY",
-				"val" : -1
+					"propagator": "BATTLE_WIDE",
+					"propagationUpdater" : "BONUS_OWNER_UPDATER",
+					"limiters" : [ "OPPOSITE_SIDE" ],
+					"val": -1
 			}
 		},
 		"graphics" : {
@@ -82,8 +84,7 @@
 				"idle" : 10,
 				"walk" : 1
 			},
-			"timeBetweenFidgets" : 1,
-			"troopCountLocationOffset" : 0
+			"timeBetweenFidgets" : 1
 		},
 		 "sound" : {
 			"attack": "AAGLATTK.wav",

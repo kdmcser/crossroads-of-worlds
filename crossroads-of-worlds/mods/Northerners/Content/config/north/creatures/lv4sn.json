@@ -76,8 +76,9 @@
 			},
 		   "immuneToWater" :
 			{
-				"type" : "WATER_IMMUNITY",
-				"subtype" : 2 //immune to damage spells only
+				"type" : "SPELL_DAMAGE_REDUCTION",
+				"val" : 100,
+				"subtype" : "water"
 			},
 		   "canShoot" :
 			{
