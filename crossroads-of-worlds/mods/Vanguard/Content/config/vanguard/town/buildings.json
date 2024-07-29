@@ -294,10 +294,19 @@
 				},
 				"grail" :
 				{
-                                        "description" : "The presence of the Ancient Monument increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the power of Earth magic by 50% of all allied heroes.",	
+                    "description" : "The presence of the Ancient Monument increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the power of Earth magic by 50% of all allied heroes.",	
 					"name" : "Ancient Monument",
 					"id" : 26,
-					"mode" : "grail"
+					"mode" : "grail",
+					"bonuses" : 
+					[ 
+						{ 
+							"type" : "SPELL_DAMAGE", 
+							"subtype" : "earth",
+							"val" : 50, 
+							"propagator" : "PLAYER_PROPAGATOR" 
+						}
+					]
 				},
 				"dwellingLvl1" :
 				{

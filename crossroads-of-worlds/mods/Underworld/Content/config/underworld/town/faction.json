@@ -29,7 +29,7 @@
 				}
 			},
 
-			"musicTheme" : "music/factions/underworld",
+			"musicTheme" : ["music/factions/underworld"],
 			"defaultTavern" : 5,
 			"tavern" :
 			{

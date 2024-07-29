@@ -28,7 +28,7 @@
 				}
 			},
 
-			"musicTheme" : "music/factions/imperium",
+			"musicTheme" : ["music/factions/imperium"],
 			"defaultTavern" : 5,
 			"tavern" :
 			{

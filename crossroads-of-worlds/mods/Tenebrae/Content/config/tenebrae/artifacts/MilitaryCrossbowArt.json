@@ -1,5 +1,5 @@
 {
-	"plagueCrossbow":
+	"tenPlagueCrossbow":
         {
 	    "type" : ["HERO"],
 	    "warMachine":"tenMilitaryCrossbow",

@@ -1,7 +1,7 @@
 {
-	"verra" :
+	"laVerra" :
 	{
-		"class" : "ouVicar",
+		"class" : "laVicar",
 		"female" : true,
 		"images" :
 		{

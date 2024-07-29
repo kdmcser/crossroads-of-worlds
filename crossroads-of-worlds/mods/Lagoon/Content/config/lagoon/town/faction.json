@@ -28,7 +28,7 @@
 				}
 			},
 
-			"musicTheme" : "music/factions/lagoon",
+			"musicTheme" : ["music/factions/lagoon"],
 			"defaultTavern" : 5,
 			"tavern" :
 			{
@@ -50,8 +50,8 @@
 				"witch"        : 5,
 				"planeswalker" : 5,
 				"elementalist" : 5,
-                                "ouVicar"    : 5,
-                                "ouRegent"    : 5
+                                "laVicar"    : 5,
+                                "laRegent"    : 5
 			},
 			"tavernVideo" : "TAVERN.BIK",
 			"guildBackground" : "TPMAGE.bmp",
@@ -172,7 +172,7 @@
 				}
                         },
 			"mageGuild" : 5,
-			"warMachine" : "quHeavyCrossbow",
+			"warMachine" : "laHeavyCrossbow",
 			"moatAbility" : "castleMoat",
 			"names" : [
 				"Zhustead",

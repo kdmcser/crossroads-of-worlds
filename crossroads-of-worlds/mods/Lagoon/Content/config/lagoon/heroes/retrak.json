@@ -1,7 +1,7 @@
 {
-	"retrak" :
+	"laRetrak" :
 	{
-		"class" : "ouRegent",
+		"class" : "laRegent",
 		"female" : true,
 		"images" :
 		{

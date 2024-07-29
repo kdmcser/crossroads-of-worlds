@@ -28,7 +28,7 @@
 				}
 			},
 
-			"musicTheme" : "music/factions/highland",
+			"musicTheme" : ["music/factions/highland"],
 			"defaultTavern" : 5,
 			"tavern" :
 			{

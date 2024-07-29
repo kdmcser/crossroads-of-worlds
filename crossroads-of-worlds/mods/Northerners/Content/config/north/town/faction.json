@@ -28,7 +28,7 @@
 				}
 			},
 
-			"musicTheme" : "music/factions/north",
+			"musicTheme" : ["music/factions/north"],
 			"defaultTavern" : 5,
 			"tavern" :
 			{

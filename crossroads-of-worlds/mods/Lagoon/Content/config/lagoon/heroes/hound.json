@@ -1,7 +1,7 @@
 {
-	"hound" :
+	"laHound" :
 	{
-		"class" : "ouRegent",
+		"class" : "laRegent",
 		"female" : false,
 		"images" :
 		{

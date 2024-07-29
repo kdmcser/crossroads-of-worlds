@@ -279,7 +279,15 @@
                    "description" : "The presence of the Red Colossus increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the morale of all allied heroes by +2.",	
 					"name" : "Red Colossus",
 					"id" : 26,
-					"mode" : "grail"
+					"mode" : "grail",
+					"bonuses" : 
+					[ 
+						{ 
+							"type" : "MORALE", 
+							"val" : 2, 
+							"propagator" : "PLAYER_PROPAGATOR" 
+						}
+					]
 				},
 				"dwellingLvl1" :
 				{

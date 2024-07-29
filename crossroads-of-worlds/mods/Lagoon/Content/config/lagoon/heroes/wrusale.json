@@ -1,7 +1,7 @@
 {
-	"wrusale" :
+	"laWrusale" :
 	{
-		"class" : "ouRegent",
+		"class" : "laRegent",
 		"female" : false,
 		"images" :
 		{

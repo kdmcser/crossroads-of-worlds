@@ -1,12 +1,12 @@
 {
-	"ouVicar" :
+	"laVicar" :
 	{
 		"faction" : "lagoon",
 		"animation" :
 		{
 			"battle" : 
 			{
-                                "male"   : "lagoon/battle/CH22.def",
+                "male"   : "lagoon/battle/CH22.def",
 				"female" : "lagoon/battle/CH23.def"
 				
 			},
@@ -19,7 +19,7 @@
 		},
 		"name" : "Vicar",
 		"affinity" : "magic",
-	    "commander" : "quKnight",
+	    "commander" : "laKnight",
 		"primarySkills" :
 		{
 			"attack"     : 1,
@@ -84,7 +84,7 @@
 			"stronghold" : 4,
 			"fortress"   : 4,
 			"conflux"    : 4,
-                        "lagoon"   : 4
+            "lagoon"   : 4
 		}
 	}
 }

@@ -28,7 +28,7 @@
 				}
 			},
 
-			"musicTheme" : "music/factions/tovne",
+			"musicTheme" : ["music/factions/tovne"],
 			"defaultTavern" : 5,
 			"tavern" :
 			{

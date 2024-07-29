@@ -27,7 +27,7 @@
 				}
 			},
 
-			"musicTheme" : "music/factions/scourge",
+			"musicTheme" : ["music/factions/scourge"],
 			"defaultTavern" : 5,
 			"tavern" :
 			{

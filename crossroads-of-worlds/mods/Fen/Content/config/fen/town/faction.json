@@ -28,7 +28,7 @@
 				}
 			},
 
-			"musicTheme" : "music/factions/fen",
+			"musicTheme" : ["music/factions/fen"],
 			"defaultTavern" : 5,
 			"tavern" :
 			{

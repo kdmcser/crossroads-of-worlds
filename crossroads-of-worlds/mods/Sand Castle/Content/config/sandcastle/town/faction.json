@@ -28,7 +28,7 @@
 				}
 			},
 
-			"musicTheme" : "music/factions/sandcastle",
+			"musicTheme" : ["music/factions/sandcastle"],
 			"defaultTavern" : 5,
 			"tavern" :
 			{

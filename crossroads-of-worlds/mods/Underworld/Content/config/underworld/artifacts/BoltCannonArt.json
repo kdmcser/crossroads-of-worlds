@@ -1,5 +1,5 @@
 {
-	"boltCannon":
+	"unBoltCannon":
         {
 	"type" : ["HERO"],
 	"warMachine":"unBoltCannon",

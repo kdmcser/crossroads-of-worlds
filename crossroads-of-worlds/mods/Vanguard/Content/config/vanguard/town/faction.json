@@ -28,7 +28,7 @@
 				}
 			},
 
-			"musicTheme" : "music/factions/vanguard",
+			"musicTheme" : ["music/factions/vanguard"],
 			"defaultTavern" : 5,
 			"tavern" :
 			{

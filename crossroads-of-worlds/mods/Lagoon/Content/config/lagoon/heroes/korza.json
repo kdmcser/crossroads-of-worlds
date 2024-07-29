@@ -1,7 +1,7 @@
 {
-	"korza" :
+	"laKorza" :
 	{
-		"class" : "ouRegent",
+		"class" : "laRegent",
 		"female" : true,
 		"images" :
 		{

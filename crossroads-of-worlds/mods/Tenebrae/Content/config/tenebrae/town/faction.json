@@ -28,7 +28,7 @@
 				}
 			},
 
-			"musicTheme" : "music/factions/tenebrae",
+			"musicTheme" : ["music/factions/tenebrae"],
 			"defaultTavern" : 5,
 			"tavern" :
 			{

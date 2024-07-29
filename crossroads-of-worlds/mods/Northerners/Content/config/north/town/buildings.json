@@ -294,10 +294,22 @@
 				},	
 				"grail" :
 				{
-					"description" : "The presence of the Winter Altar increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and the entire landscape becomes snowy, within a radius of +5 per day.",	
+					"description" : "The presence of the Winter Altar increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, also making any land native to the creatures of the Northerners.",	
 					"name" : "Winter Altar",
 					"id" : 26,
-					"mode" : "grail"
+					"mode" : "grail",
+					"bonuses" : [
+						{
+							"type" : "TERRAIN_NATIVE",
+							"propagator" : "GLOBAL_EFFECT",
+							"limiters" : [
+								{
+									"type": "CREATURE_FACTION_LIMITER",
+									"parameters" : ["north"]
+								}
+							]
+						}
+					]
 				},
 				"dwellingLvl1" :
 				{

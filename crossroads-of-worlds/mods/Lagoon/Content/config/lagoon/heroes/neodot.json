@@ -1,7 +1,7 @@
 {
-	"neodot" :
+	"laNeodot" :
 	{
-		"class" : "ouRegent",
+		"class" : "laRegent",
 		"female" : true,
 		"images" :
 		{

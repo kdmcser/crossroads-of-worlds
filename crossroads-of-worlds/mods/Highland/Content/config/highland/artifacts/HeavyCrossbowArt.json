@@ -1,5 +1,5 @@
 {
-	"plagueCrossbow":
+	"hiPlagueCrossbow":
         {
 	    "type" : ["HERO"],
 	    "warMachine":"hiHeavyCrossbow",

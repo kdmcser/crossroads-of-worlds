@@ -1,5 +1,5 @@
 {
-	"plagueCrossbow":
+	"apPlagueCrossbow":
         {
 	    "type" : ["HERO"],
 	    "warMachine":"apHeavyCrossbow",
