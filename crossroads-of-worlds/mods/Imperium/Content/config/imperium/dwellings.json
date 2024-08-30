@@ -2,76 +2,76 @@
 	"core:creatureGeneratorCommon" : {
 		"types" : {
 			"itPikemanOutpost" : {
-				"name" : "Pikeman Outpost",
+				"name" : "Guard House",
 				"creatures" : [[ "itlv1" ]],
 				"templates" : {
 					"default" : {
 						"animation" : "imperium/creatures/dwellings/dw1.def",
-						"mask" : [ "VBV", "VBB", "VBA" ]
+						"mask" : [ "VBB", "VBB", "VBA" ]
 					}
 				}
 			},
 			"itArcherOutpost" : {
-				"name" : "Archer Outpost",
+				"name" : "Archer's Tower",
 				"creatures" : [[ "itlv2" ]],
 				"templates" : {
 					"default" : {
 						"animation" : "imperium/creatures/dwellings/dw2.def",
-						"mask" : [ "VBV", "VBB", "VBA" ]
+						"mask" : [ "VBB", "VBB", "VAB" ]
 					}
 				}
 			},
 			"itHoundOutpost" : {
-				"name" : "Hound Outpost",
+				"name" : "Hound Tower",
 				"creatures" : [[ "itlv3" ]],
 				"templates" : {
 					"default" : {	
 						"animation" : "imperium/creatures/dwellings/dw3.def",
-						"mask" : [ "VBV", "VBB", "VBA" ]
+						"mask" : [ "VBB", "VBB", "VBA" ]
 					}
 				}
 			},
-			"itSwordsmanOutpost" : {
-				"name" : "Swordsman Outpost",
+			"itBarracks" : {
+				"name" : "Barracks",
 				"creatures" : [[ "itlv4" ]],
 				"guards" : true,
 				"templates" : {
 					"default" : {
 						"animation" : "imperium/creatures/dwellings/dw4.def",
-						"mask" : [ "VBV", "VBB", "VBA" ]
+						"mask" : [ "VBB", "VBB", "VBA" ]
 					}
 				}
 			},
-			"itMonkOutpost" : {
-				"name" : "Monk Outpost",
+			"itDarkMonastery" : {
+				"name" : "Dark Monastery",
 				"creatures" : [[ "itlv5" ]],
 				"guards" : true,
 				"templates" : {
 					"default" : {
 						"animation" : "imperium/creatures/dwellings/dw5.def",
-						"mask" : [ "VVV", "VBV", "VAV" ]
+						"mask" : [ "VBV", "VBB", "VAB" ]
 					}
 				}
 			},
-			"itCavalierOutpost" : {
-				"name" : "Cavalier Outpost",
+			"itStablings" : {
+				"name" : "Stablings",
 				"creatures" : [[ "itlv6" ]],
 				"guards" : true,
 				"templates" : {
 					"default" : {
 						"animation" : "imperium/creatures/dwellings/dw6.def",
-						"mask" : [ "VVV", "VBV", "VAV" ]
+						"mask" : [ "VVB", "VBB", "VBA" ]
 					}
 				}
 			},
-			"itAngelOutpost" : {
-				"name" : "Angel Outpost",
+			"itPortalofDamnation" : {
+				"name" : "Portal of Damnation",
 				"creatures" : [[ "itlv7" ]],
 				"guards" : true,
 				"templates" : {
 					"default" : {
 						"animation" : "imperium/creatures/dwellings/dw7.def",
-						"mask" : [ "VVV", "VBV", "VBA" ]
+						"mask" : [ "VBBV", "VBAV" ]
 					}
 				}
 			},
@@ -81,7 +81,7 @@
 				"templates" : {
 					"default" : {	
 						"animation" : "imperium/creatures/dwellings/dw8.def",
-						"mask" : [ "VBV", "VBB", "VBA" ]
+						"mask" : [ "VBB", "VBB", "VBA" ]
 					}
 				}
 			},
@@ -92,7 +92,7 @@
 				"templates" : {
 					"default" : {
 						"animation" : "imperium/creatures/dwellings/dw9.def",
-						"mask" : [ "VBV", "VBB", "VBA" ]
+						"mask" : [ "VBB", "VBB", "VBA" ]
 					}
 				}
 			}
