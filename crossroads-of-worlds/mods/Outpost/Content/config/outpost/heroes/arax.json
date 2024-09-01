@@ -1,7 +1,7 @@
 {
-	"arax" :
+	"quarax" :
 	{
-		"class" : "ouRegent",
+		"class" : "opRegent",
 		"female" : true,
 		"images" :
 		{

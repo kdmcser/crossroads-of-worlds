@@ -50,8 +50,8 @@
 				"witch"        : 5,
 				"planeswalker" : 5,
 				"elementalist" : 5,
-                                "ouVicar"    : 5,
-                                "ouRegent"    : 5
+                "opVicar"    : 5,
+                "opRegent"    : 5
 			},
 			"tavernVideo" : "TAVERN.BIK",
 			"guildBackground" : "TPMAGE.bmp",

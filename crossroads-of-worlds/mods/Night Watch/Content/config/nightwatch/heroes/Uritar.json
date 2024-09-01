@@ -35,9 +35,9 @@
 	
 		"specialty" : {
 			"bonuses" : {
-				"intelligence" : {
+				"resistance" : {
+					"type" : "MAGIC_RESISTANCE",
 					"targetSourceType" : "SECONDARY_SKILL",
-					"type" : "MANA_PER_KNOWLEDGE",
 					"updater" : "TIMES_HERO_LEVEL",
 					"val" : 5,
 					"valueType" : "PERCENT_TO_TARGET_TYPE"

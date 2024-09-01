@@ -1,7 +1,7 @@
 {
-	"zole" :
+	"quzole" :
 	{
-		"class" : "ouRegent",
+		"class" : "opRegent",
 		"female" : true,
 		"images" :
 		{

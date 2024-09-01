@@ -1,7 +1,7 @@
 {
-	"korza" :
+	"qukorza" :
 	{
-		"class" : "ouRegent",
+		"class" : "opRegent",
 		"female" : true,
 		"images" :
 		{

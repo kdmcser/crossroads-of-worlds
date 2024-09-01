@@ -1,5 +1,5 @@
 {
-	"ouRegent" :
+	"opRegent" :
 	{
 		"faction" : "outpost",
 		"animation" :
@@ -19,7 +19,7 @@
 		},
 		"name" : "Regent",
 		"affinity" : "might",
-	    "commander" : "quKnight",
+	    "commander" : "opKnight",
 		"primarySkills" :
 		{
 			"attack"     : 2,

@@ -1,7 +1,7 @@
 {
-	"neodot" :
+	"quneodot" :
 	{
-		"class" : "ouRegent",
+		"class" : "opRegent",
 		"female" : true,
 		"images" :
 		{
