@@ -33,7 +33,7 @@
 	"config/outpost/creatures/lv6up2.json",
 	"config/outpost/creatures/lv7.json",
 	"config/outpost/creatures/lv7up.json",
-	"config/outpost/creatures/HeavyCrossbow.json",
+	"config/outpost/creatures/opHeavyCrossbow.json",
 	"config/outpost/creatures/commander.json"
     ],
 	"heroClasses" :
@@ -43,7 +43,7 @@
 	],
     "artifacts":
     [              
-    "config/outpost/artifacts/HeavyCrossbowArt.json"        
+    "config/outpost/artifacts/opHeavyCrossbowArt.json"        
     ],
         "heroes" :
     [

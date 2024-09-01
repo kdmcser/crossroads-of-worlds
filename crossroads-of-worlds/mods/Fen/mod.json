@@ -32,7 +32,7 @@
 	"config/fen/creatures/lv6up.json",
 	"config/fen/creatures/lv7.json",
 	"config/fen/creatures/lv7up.json",
-	"config/fen/creatures/Crossbow.json",
+	"config/fen/creatures/fenCrossbow.json",
 	"config/fen/creatures/commander.json"
     ],
 	"heroClasses" :
@@ -42,7 +42,7 @@
 	 ],
     "artifacts":
     [              
-    "config/fen/artifacts/CrossbowArt.json"        
+    "config/fen/artifacts/fenCrossbowArt.json"        
     ],
         "heroes" :
     [

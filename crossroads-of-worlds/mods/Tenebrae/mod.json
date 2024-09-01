@@ -35,7 +35,7 @@
 	"config/tenebrae/creatures/lv6up2.json",
 	"config/tenebrae/creatures/lv7.json",
 	"config/tenebrae/creatures/lv7up.json",
-	"config/tenebrae/creatures/MilitaryCrossbow.json",
+	"config/tenebrae/creatures/tenMilitaryCrossbow.json",
 	"config/tenebrae/creatures/commander.json"
      ],
 	"heroClasses" :
@@ -45,7 +45,7 @@
 	],
     "artifacts":
     [              
-    "config/tenebrae/artifacts/MilitaryCrossbowArt.json"        
+    "config/tenebrae/artifacts/tenMilitaryCrossbowArt.json"        
     ],
     "heroes" :
     [

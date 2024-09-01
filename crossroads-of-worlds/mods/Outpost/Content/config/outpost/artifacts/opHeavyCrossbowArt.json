@@ -1,8 +1,8 @@
 {
-	"plagueCrossbow":
+	"opHeavyCrossbow":
         {
 	    "type" : ["HERO"],
-	    "warMachine":"quHeavyCrossbow",
+	    "warMachine":"opHeavyCrossbow",
         "class": "SPECIAL",
         "value": 3500,
         "slot":"MACH1",

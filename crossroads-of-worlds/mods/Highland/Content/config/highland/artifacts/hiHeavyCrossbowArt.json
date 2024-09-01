@@ -1,8 +1,8 @@
 {
-	"plagueCrossbow":
+	"hiHeavyCrossbow":
         {
 	    "type" : ["HERO"],
-	    "warMachine":"quHeavyCrossbow",
+	    "warMachine":"hiHeavyCrossbow",
         "class": "SPECIAL",
         "value": 3500,
         "slot":"MACH1",
@@ -14,8 +14,8 @@
 		},
 		"graphics":
 		{
-			"image":   "lagoon/creatures/iconsSmall/artifacts/cross.bmp",
-			"map"  :   "lagoon/creatures/map/artifacts/avcnbksm.def"
+			"image":   "highland/creatures/iconsSmall/artifacts/cross.bmp",
+			"map"  :   "highland/creatures/map/artifacts/avcnbksm.def"
 		}
 	}
 }

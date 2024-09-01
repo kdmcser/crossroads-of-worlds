@@ -32,7 +32,7 @@
 	"config/highland/creatures/lv6up.json",
 	"config/highland/creatures/lv7.json",
 	"config/highland/creatures/lv7up.json",
-	"config/highland/creatures/HeavyCrossbow.json",
+	"config/highland/creatures/hiHeavyCrossbow.json",
 	"config/highland/creatures/commander.json"
     ],
 	"heroClasses" :
@@ -42,7 +42,7 @@
 	],
     "artifacts":
     [              
-    "config/highland/artifacts/HeavyCrossbowArt.json"        
+    "config/highland/artifacts/hiHeavyCrossbowArt.json"        
     ],
         "heroes" :
     [

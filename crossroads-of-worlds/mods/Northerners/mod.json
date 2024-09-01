@@ -38,7 +38,7 @@
     "config/north/creatures/lv7up.json",
     "config/north/creatures/commander.json",
     "config/north/creatures/Nephilim.json",
-    "config/north/creatures/SnowyTent.json"
+    "config/north/creatures/ntSnowyTent.json"
     ],
 	"heroClasses" :
 	[
@@ -47,7 +47,7 @@
 	],
     "artifacts":
     [              
-    "config/north/artifacts/SnowyTentArt.json"        
+    "config/north/artifacts/ntSnowyTentArt.json"        
     ],
     "spells" :
 	[              

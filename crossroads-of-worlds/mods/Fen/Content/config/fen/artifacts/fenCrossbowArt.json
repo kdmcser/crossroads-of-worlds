@@ -1,8 +1,8 @@
 {
-	"crossbow":
+	"fenCrossbow":
         {
 	    "type" : ["HERO"],
-	    "warMachine":"felCrossbow",
+	    "warMachine":"fenCrossbow",
         "class": "SPECIAL",
         "value": 3500,
         "slot":"MACH1",

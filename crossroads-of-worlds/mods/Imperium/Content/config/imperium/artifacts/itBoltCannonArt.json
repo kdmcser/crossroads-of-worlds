@@ -1,8 +1,8 @@
 {
-	"boltCannonArt":
+	"itBoltCannon":
         {
 	"type" : ["HERO"],
-	"warMachine":"reBoltCannon",
+	"warMachine":"itBoltCannon",
         "class": "SPECIAL",
         "value": 3500,
         "slot":"MACH1",
@@ -14,8 +14,8 @@
 		},
 		"graphics":
 		{
-			"image": "scourge/creatures/iconsSmall/artifacts/bow.bmp",
-			"map"  :   "scourge/creatures/map/artifacts/avcnbksm.def"
+			"image": "imperium/creatures/iconsSmall/artifacts/bow.bmp",
+			"map"  :   "imperium/creatures/map/artifacts/avcnbksm.def"
 		}
 	}
 }

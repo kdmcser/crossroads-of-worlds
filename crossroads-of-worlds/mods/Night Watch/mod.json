@@ -33,7 +33,7 @@
 	"config/nightwatch/creatures/lv7.json",
 	"config/nightwatch/creatures/lv7up.json",
 	"config/nightwatch/creatures/lv7alt.json",
-	"config/nightwatch/creatures/PlagueCrossbow.json",
+	"config/nightwatch/creatures/nwPlagueCrossbow.json",
 	"config/nightwatch/creatures/commander.json"
         ],
 	"heroClasses" :
@@ -44,7 +44,7 @@
     
     "artifacts":
     [              
-    "config/nightwatch/artifacts/PlagueCrossbowArt.json"        
+    "config/nightwatch/artifacts/nwPlagueCrossbowArt.json"        
     ],
     "heroes" :
     [

@@ -32,7 +32,7 @@
 	"config/lagoon/creatures/lv6up.json",
 	"config/lagoon/creatures/lv7.json",
 	"config/lagoon/creatures/lv7up.json",
-	"config/lagoon/creatures/HeavyCrossbow.json",
+	"config/lagoon/creatures/quHeavyCrossbow.json",
 	"config/lagoon/creatures/commander.json"
     ],
 	"heroClasses" :
@@ -42,7 +42,7 @@
 	],
     "artifacts":
     [              
-    "config/lagoon/artifacts/HeavyCrossbowArt.json"        
+    "config/lagoon/artifacts/quHeavyCrossbowArt.json"        
     ],
         "heroes" :
     [
