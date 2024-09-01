@@ -5,6 +5,10 @@
 	"version" : "0.3",
 	"contact": "https://vk.com/public184999722",
 	"modType" : "Town",
+	"depends" :
+	[
+		"newtown-terrains.fierylandterrain"
+	],
 	"factions" :
 	[
 	"config/imperium/town/buildings.json",

@@ -2,7 +2,7 @@
 	"outpost" :
 	{
 		"name" : "Outpost",
-		"nativeTerrain": "rough",
+		"nativeTerrain": "newtown-terrains.plateaulandterrain:plateau",
 		"alignment" : "neutral",
 		"boat" : "boatCastle",
 		"creatureBackground" :
