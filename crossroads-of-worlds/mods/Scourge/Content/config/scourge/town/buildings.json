@@ -207,6 +207,7 @@
 						"ore" : 5,
 						"gold" : 5000
 					},
+					"produce": { "mercury": 1 },
 					"requires" : ["marketplace"],
 					"id" : 15
 				},
@@ -219,6 +220,7 @@
 						"wood" : 5,
 						"gold" : 500
 					},
+					"warMachine" : "reBoltCannonArt",
 					"id" : 16
 				},
 				"horde1" :
@@ -272,7 +274,16 @@
 						"wood"    : 10,
 						"gold" : 2000
 					},
-					"type" : "stables",
+					"configuration" : {
+						"visitMode" : "bonus",
+						"rewards" : [
+							{
+								"message" : "@core.genrltxt.580",
+								"movePoints" : 400,
+								"bonuses" : [ { "type" : "MOVEMENT", "subtype" : "heroMovementLand",  "val" : 400, "valueType" : "ADDITIVE_VALUE", "duration" : "ONE_WEEK"} ]
+							}
+						]
+					},
 					"requires" : ["dwellingLvl4"],
 					"id" : 21
 				},
@@ -286,7 +297,13 @@
 						"gold" : 500
 					},
                     "requires" : [ "tavern" ],
-                    "type" : "brotherhoodOfSword",
+					"upgradeReplacesBonuses" : true,
+					"bonuses": [
+						{
+							"type": "MORALE",
+							"val": 2
+						}
+					],
 					"id" : 22,
 					"upgrades" : "tavern"						
 				},		
@@ -296,6 +313,7 @@
 					"name" : "Altar of Mission ",
 					"id" : 26,
 					"mode" : "grail",
+					"produce": { "gold": 5000 },
 					"bonuses" : 
 					[ 
 						{ 

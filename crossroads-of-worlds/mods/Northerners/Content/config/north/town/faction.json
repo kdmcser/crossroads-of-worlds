@@ -166,9 +166,7 @@
 					"normal" : { "large" : "north/icons/hall-big.bmp", "small" : "north/icons/hall-small.bmp" }
 				}
                         },
-			"mageGuild" : 5,
-			"warMachine" : "ntSnowyTent",
-			//"moatDamage" : 70,
+			"mageGuild" : 5,			//"moatDamage" : 70,
 			//"moatHexes" : [ 11, 28, 44, 61, 77, 111, 129, 146, 164, 181 ],
 			"names" : [
 				"Snow Barrier",
