@@ -209,7 +209,7 @@
 						"wood" : 5,
 						"gold" : 500
 					},
-					"warMachine" : "quPlagueCrossbow",
+					"warMachine" : "opHeavyCrossbow",
 					"id" : 16
 				},
 				"horde1" :

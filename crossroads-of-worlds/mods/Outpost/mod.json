@@ -5,6 +5,10 @@
 	"version" : "0.1",
 	"contact": "https://vk.com/public184999722",
 	"modType" : "Town",
+	"depends" :
+	[
+		"newtown-terrains.plateaulandterrain"
+	],
 	"factions" :
 	[
 	"config/outpost/town/buildings.json",
@@ -33,7 +37,7 @@
 	"config/outpost/creatures/lv6up2.json",
 	"config/outpost/creatures/lv7.json",
 	"config/outpost/creatures/lv7up.json",
-	"config/outpost/creatures/HeavyCrossbow.json",
+	"config/outpost/creatures/opHeavyCrossbow.json",
 	"config/outpost/creatures/commander.json"
     ],
 	"heroClasses" :
@@ -43,7 +47,7 @@
 	],
     "artifacts":
     [              
-    "config/outpost/artifacts/HeavyCrossbowArt.json"        
+    "config/outpost/artifacts/opHeavyCrossbowArt.json"        
     ],
         "heroes" :
     [

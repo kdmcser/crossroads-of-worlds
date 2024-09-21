@@ -5,10 +5,10 @@
 		"female" : false,
 		"images" :
 		{
-			"specialtySmall" : "north/heroes/frisill/spec-small.bmp",
-			"specialtyLarge" : "north/heroes/frisill/spec-large.bmp",
-			"large" : "north/heroes/frisill/portrait-large.jpg",
-			"small" : "north/heroes/frisill/portrait-small.jpg"
+			"specialtySmall" : "north/heroes/frisill/spec-small.png",
+			"specialtyLarge" : "north/heroes/frisill/spec-large.png",
+			"large" : "north/heroes/frisill/portrait-large.png",
+			"small" : "north/heroes/frisill/portrait-small.png"
 		},
         "army" :
 		[

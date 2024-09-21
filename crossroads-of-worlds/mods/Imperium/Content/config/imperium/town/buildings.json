@@ -209,7 +209,7 @@
 						"wood" : 5,
 						"gold" : 500
 					},
-					"warMachine" : "itBoltCannonArt",
+					"warMachine" : "itBoltCannon",
 					"id" : 16
 				},
 				"horde1" :

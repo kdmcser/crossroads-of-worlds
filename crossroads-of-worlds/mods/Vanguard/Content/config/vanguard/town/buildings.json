@@ -220,7 +220,7 @@
 						"wood" : 5,
 						"gold" : 500
 					},
-					"warMachine" : "apPlagueCrossbow",
+					"warMachine" : "apHeavyCrossbow",
 					"id" : 16
 				},
 				"horde1" :

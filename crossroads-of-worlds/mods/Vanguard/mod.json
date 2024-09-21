@@ -33,7 +33,7 @@
 	"config/vanguard/creatures/lv6up.json",
 	"config/vanguard/creatures/lv7.json",
 	"config/vanguard/creatures/lv7up.json",
-	"config/vanguard/creatures/HeavyCrossbow.json",
+	"config/vanguard/creatures/apHeavyCrossbow.json",
 	"config/vanguard/creatures/commander.json"
     ],
 	"heroClasses" :
@@ -43,7 +43,7 @@
 	],
     "artifacts":
     [              
-    "config/vanguard/artifacts/HeavyCrossbowArt.json"        
+    "config/vanguard/artifacts/apHeavyCrossbowArt.json"        
     ],
         "heroes" :
     [

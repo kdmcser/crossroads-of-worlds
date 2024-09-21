@@ -1,5 +1,5 @@
 {
-	"ouVicar" :
+	"opVicar" :
 	{
 		"faction" : "outpost",
 		"animation" :
@@ -19,7 +19,7 @@
 		},
 		"name" : "Vicar",
 		"affinity" : "magic",
-	    "commander" : "quKnight",
+	    "commander" : "opKnight",
 		"primarySkills" :
 		{
 			"attack"     : 1,

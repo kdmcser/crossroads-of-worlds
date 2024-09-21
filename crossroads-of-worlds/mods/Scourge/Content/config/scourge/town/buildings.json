@@ -220,7 +220,7 @@
 						"wood" : 5,
 						"gold" : 500
 					},
-					"warMachine" : "reBoltCannonArt",
+					"warMachine" : "reBoltCannon",
 					"id" : 16
 				},
 				"horde1" :

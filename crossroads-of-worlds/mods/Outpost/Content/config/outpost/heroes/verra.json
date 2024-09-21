@@ -1,7 +1,7 @@
 {
-	"verra" :
+	"quverra" :
 	{
-		"class" : "ouVicar",
+		"class" : "opVicar",
 		"female" : true,
 		"images" :
 		{

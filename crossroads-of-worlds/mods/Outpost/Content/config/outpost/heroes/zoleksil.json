@@ -1,7 +1,7 @@
 {
-	"zoleksil" :
+	"quzoleksil" :
 	{
-		"class" : "ouRegent",
+		"class" : "opRegent",
 		"female" : true,
 		"images" :
 		{

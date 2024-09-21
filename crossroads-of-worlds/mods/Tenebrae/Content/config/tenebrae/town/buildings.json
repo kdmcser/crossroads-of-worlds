@@ -220,7 +220,7 @@
 						"wood" : 5,
 						"gold" : 1000
 					},
-					"warMachine" : "tenPlagueCrossbow",
+					"warMachine" : "tenMilitaryCrossbow",
 					"id" : 16
 				},
 				"horde1" :

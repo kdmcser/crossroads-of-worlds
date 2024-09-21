@@ -209,7 +209,7 @@
 						"wood" : 5,
 						"gold" : 500
 					},
-					"warMachine" : "siegeCrossbow",
+					"warMachine" : "saSiegeCrossbow",
 					"id" : 16
 				},
 				"horde1" :

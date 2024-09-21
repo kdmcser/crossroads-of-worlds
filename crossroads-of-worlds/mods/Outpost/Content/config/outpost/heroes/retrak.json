@@ -1,7 +1,7 @@
 {
-	"retrak" :
+	"quretrak" :
 	{
-		"class" : "ouRegent",
+		"class" : "opRegent",
 		"female" : true,
 		"images" :
 		{

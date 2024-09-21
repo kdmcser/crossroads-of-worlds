@@ -209,7 +209,7 @@
 						"wood" : 5,
 						"gold" : 1000
 					},
-					"warMachine" : "crossbow",
+					"warMachine" : "fenCrossbow",
 					"id" : 16
 				},
 				"horde1" :

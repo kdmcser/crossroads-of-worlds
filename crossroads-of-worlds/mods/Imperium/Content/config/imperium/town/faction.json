@@ -2,7 +2,7 @@
 	"imperium" :
 	{
 		"name" : "Imperium",
-		"nativeTerrain": "lava",
+		"nativeTerrain": "newtown-terrains.fierylandterrain:fieryLand",
 		"alignment" : "neutral",
 		"boat" : "boatCastle",
 		"creatureBackground" :

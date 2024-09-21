@@ -5,6 +5,10 @@
 	"version" : "0.3",
 	"contact": "https://vk.com/public184999722",
 	"modType" : "Town",
+	"depends" :
+	[
+		"newtown-terrains.fierylandterrain"
+	],
 	"factions" :
 	[
 	"config/imperium/town/buildings.json",
@@ -34,7 +38,7 @@
 	"config/imperium/creatures/lv7up.json",
 	"config/imperium/creatures/lv3net.json",
 	"config/imperium/creatures/commander.json",
-	"config/imperium/creatures/BoltCannon.json"
+	"config/imperium/creatures/itBoltCannon.json"
         ],
 	"heroClasses" :
 	[
@@ -43,7 +47,7 @@
 	],
     "artifacts":
     [              
-    "config/imperium/artifacts/BoltCannonArt.json"        
+    "config/imperium/artifacts/itBoltCannonArt.json"        
     ],
     "heroes" :
     [

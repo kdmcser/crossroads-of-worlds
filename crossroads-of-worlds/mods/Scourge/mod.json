@@ -34,7 +34,7 @@
 	"config/scourge/creatures/lv7up.json",
 	"config/scourge/creatures/lv7up2.json",
 	"config/scourge/creatures/commander.json",
-	"config/scourge/creatures/BoltCannon.json"
+	"config/scourge/creatures/reBoltCannon.json"
         ],
 	"heroClasses" :
 	[
@@ -43,7 +43,7 @@
 	],
     "artifacts":
     [              
-    "config/scourge/artifacts/BoltCannonArt.json"        
+    "config/scourge/artifacts/reBoltCannonArt.json"        
     ],
    "heroes" :
     [
@@ -69,5 +69,5 @@
     "objects" :
     [
     "config/scourge/dwellings.json"
-    ],
+    ]
 }

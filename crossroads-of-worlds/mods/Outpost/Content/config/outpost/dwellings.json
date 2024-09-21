@@ -1,88 +1,88 @@
 {
 	"core:creatureGeneratorCommon" : {
 		"types" : {
-			"quPikemanOutpost" : {
-				"name" : "Pikeman Outpost",
+			"quGuardHouse" : {
+				"name" : "Guard House",
 				"creatures" : [[ "qulv1" ]],
 				"templates" : {
 					"default" : {
 						"animation" : "outpost/creatures/dwellings/dw1.def",
-						"mask" : [ "VBV", "VBB", "VBA" ]
+						"mask" : [ "VBB", "VBB", "VBA" ]
 					}
 				}
 			},
-			"quArcherOutpost" : {
-				"name" : "Archer Outpost",
+			"quCrossbowmansTower" : {
+				"name" : "Crossbowmans Tower",
 				"creatures" : [[ "qulv2" ]],
 				"templates" : {
 					"default" : {
 						"animation" : "outpost/creatures/dwellings/dw2.def",
-						"mask" : [ "VBV", "VBB", "VBA" ]
+						"mask" : [ "VBB", "VBB", "VAB" ]
 					}
 				}
 			},
-			"quHoundOutpost" : {
-				"name" : "Hound Outpost",
+			"quAncientTower" : {
+				"name" : "Ancient Tower",
 				"creatures" : [[ "qulv3" ]],
 				"templates" : {
 					"default" : {	
 						"animation" : "outpost/creatures/dwellings/dw3.def",
-						"mask" : [ "VBV", "VBB", "VBA" ]
+						"mask" : [ "VBB", "VBB", "VBA" ]
 					}
 				}
 			},
-			"quSwordsmanOutpost" : {
-				"name" : "Swordsman Outpost",
+			"quBarracks" : {
+				"name" : "Barracks",
 				"creatures" : [[ "qulv4" ]],
 				"guards" : true,
 				"templates" : {
 					"default" : {
 						"animation" : "outpost/creatures/dwellings/dw4.def",
-						"mask" : [ "VBV", "VBB", "VBA" ]
+						"mask" : [ "VBB", "VBB", "VBA" ]
 					}
 				}
 			},
-			"quMonkOutpost" : {
-				"name" : "Monk Outpost",
+			"quMonastery" : {
+				"name" : "Monastery",
 				"creatures" : [[ "qulv5" ]],
 				"guards" : true,
 				"templates" : {
 					"default" : {
 						"animation" : "outpost/creatures/dwellings/dw5.def",
-						"mask" : [ "VVV", "VBV", "VAV" ]
+						"mask" : [ "VVV", "VBB", "VBA" ]
 					}
 				}
 			},
-			"quCavalierOutpost" : {
-				"name" : "Cavalier Outpost",
+			"quTrainingGrounds" : {
+				"name" : "Training Grounds",
 				"creatures" : [[ "qulv6" ]],
 				"guards" : true,
 				"templates" : {
 					"default" : {
 						"animation" : "outpost/creatures/dwellings/dw6.def",
-						"mask" : [ "VVV", "VBV", "VAV" ]
+						"mask" : [ "VVB", "VBB", "VBA" ]
 					}
 				}
 			},
-			"quAngelOutpost" : {
-				"name" : "Angel Outpost",
+			"quMountainLairs" : {
+				"name" : "Mountain Lairs",
 				"creatures" : [[ "qulv7" ]],
 				"guards" : true,
 				"templates" : {
 					"default" : {
 						"animation" : "outpost/creatures/dwellings/dw7.def",
-						"mask" : [ "VVV", "VBV", "VBA" ]
+						"mask" : [ "VVVV", "VBBB", "VBBB", "VBAB" ]
 					}
 				}
 			},
 			"quSniperOutpost" : {
-				"name" : "Sniper Outpost",
+				"name" : "Sniper Tower",
 				"creatures" : [[ "qulv4sn" ]],
 				"guards" : true,
 				"templates" : {
 					"default" : {
 						"animation" : "outpost/creatures/dwellings/dw8.def",
-						"mask" : [ "VBV", "VBB", "VBA" ]
+						"mask" : [ "VBB", "VBB", "VBA" ]
 					}
 				}
 			}

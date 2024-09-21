@@ -2,7 +2,7 @@
 	"outpost" :
 	{
 		"name" : "Outpost",
-		"nativeTerrain": "rough",
+		"nativeTerrain": "newtown-terrains.plateaulandterrain:plateau",
 		"alignment" : "neutral",
 		"boat" : "boatCastle",
 		"creatureBackground" :
@@ -50,8 +50,8 @@
 				"witch"        : 5,
 				"planeswalker" : 5,
 				"elementalist" : 5,
-                                "ouVicar"    : 5,
-                                "ouRegent"    : 5
+                "opVicar"    : 5,
+                "opRegent"    : 5
 			},
 			"tavernVideo" : "TAVERN.BIK",
 			"guildBackground" : "TPMAGE.bmp",
@@ -172,7 +172,9 @@
 					"normal" : { "large" : "outpost/icons/hall-big.bmp", "small" : "outpost/icons/hall-small.bmp" }
 				}
                         },
-			"mageGuild" : 5,			//"moatDamage" : 70,
+
+			"mageGuild" : 5,
+			//"moatDamage" : 70,
 			//"moatHexes" : [ 11, 28, 44, 61, 77, 111, 129, 146, 164, 181 ],
 			"names" : [
 				"Fapphia",
