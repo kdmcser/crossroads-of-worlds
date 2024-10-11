@@ -6,7 +6,7 @@
 	"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "1.0.4",
+	"version" : "1.0.5",
 	"compatibility" :
 	{
 		"min" : "1.4.0"
@@ -17,7 +17,8 @@
 		"1.0.1"   : [ "Update to 1.4 format" ],
 		"1.0.2"   : [ "Small graphical fixes", "Small changes in Imperium's creature abilities" ],
 		"1.0.3"   : [ "Update to 1.5 format" ],
-		"1.0.4"   : [ "Identifiers fixes" ]
+		"1.0.4"   : [ "Identifiers fixes" ],
+		"1.0.5"   : [ "Better submods compatibility system" ]
 	},
 	"chinese": {
 		"name": "世界汇合点",
