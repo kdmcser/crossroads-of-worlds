@@ -4,7 +4,7 @@
 	"author": "Zeryss acidchalk,macron1",
 	"version" : "0.3",
 	"contact": "https://vk.com/public184999722",
-	"modType" : "Town",
+	"modType" : "Compatibility",
 	"depends" :
 	[
 		"newtown-terrains.fierylandterrain"

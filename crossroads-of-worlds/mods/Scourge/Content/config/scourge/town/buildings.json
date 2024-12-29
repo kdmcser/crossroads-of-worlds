@@ -311,6 +311,7 @@
 				{
                     "description" : "The presence of the Altar of Mission  increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the morale of all allied heroes by +2.",	
 					"name" : "Altar of Mission ",
+					"produce": { "gold": 5000 },
 					"id" : 26,
 					"mode" : "grail",
 					"produce": { "gold": 5000 },

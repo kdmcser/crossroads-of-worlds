@@ -320,6 +320,7 @@
 				{
                     "description" : "The presence of the Thunderstorm increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the power of Earth magic by 50% of all allied heroes.",	
 					"name" : "Thunderstorm",
+					"produce": { "gold": 5000 },
 					"id" : 26,
 					"mode" : "grail",
 					"produce": { "gold": 5000 },
